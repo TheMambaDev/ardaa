@@ -1,0 +1,14 @@
+go 1.21.0
+
+use (
+	.
+	./config
+	./domain
+	./internal/token
+	./internal/validator
+	./pkg/database
+	./pkg/user
+	./web/handlers
+	./web/middlewares
+	./web/routes
+)

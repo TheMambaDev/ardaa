@@ -1,0 +1,405 @@
+{"time":"2023-09-17T17:37:14.647726+03:00","level":"INFO","msg":"Logging set"}
+{"time":"2023-09-18T15:24:09.589256+03:00","level":"ERROR","msg":"Database: could not connect to mysql, err: ","!BADKEY":"invalid DSN: missing the slash separating the database name"}
+{"time":"2023-09-18T15:25:59.92467+03:00","level":"ERROR","msg":"Database: could not connect to mysql, err: ","!BADKEY":"invalid DSN: missing the slash separating the database name"}
+{"time":"2023-09-18T15:26:06.632319+03:00","level":"ERROR","msg":"Database: could not connect to mysql, err: ","!BADKEY":"invalid DSN: missing the slash separating the database name"}
+{"time":"2023-09-18T15:48:58.72282+03:00","level":"ERROR","msg":"Database: could not connect to sqlite, err: ","!BADKEY":"unable to open database file: no such file or directory"}
+{"time":"2023-09-19T13:51:33.854995+03:00","level":"ERROR","msg":"Database: could not connect to mysql, err: ","!BADKEY":"Error 1049 (42000): Unknown database 'ardaa'"}
+{"time":"2023-09-19T14:32:29.144087+03:00","level":"INFO","msg":"userHandler","err":""}
+{"time":"2023-09-19T14:32:36.859719+03:00","level":"INFO","msg":"userHandler","err":"LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTg0ODkwNTczMzIxNDQxMzIxMzM1MTEzOQ0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJuYW1lIg0KDQp3YXNzdXANCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS04NDg5MDU3MzMyMTQ0MTMyMTMzNTExMzkNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZ2VuZGVyIg0KDQpNYWxlDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tODQ4OTA1NzMzMjE0NDEzMjEzMzUxMTM5LS0NCg=="}
+{"time":"2023-09-19T14:33:19.168247+03:00","level":"INFO","msg":"userHandler","err":"LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTk3NDI0NDAzNTQyOTAzNjMyNTA5NzQ5MQ0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJuYW1lIg0KDQp3YXNzdXANCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS05NzQyNDQwMzU0MjkwMzYzMjUwOTc0OTENCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZ2VuZGVyIg0KDQpNYWxlDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tOTc0MjQ0MDM1NDI5MDM2MzI1MDk3NDkxLS0NCg=="}
+{"time":"2023-09-19T15:01:17.073215+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:05:35.190129+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-19T15:05:35.1908+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:06:42.703854+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-19T15:06:42.704708+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:07:15.310857+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-19T15:07:15.31093+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:08:53.33496+03:00","level":"INFO","msg":"","":"YXJkYWE="}
+{"time":"2023-09-19T15:08:53.336057+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:09:37.212099+03:00","level":"INFO","msg":"","":"QVJEQUFAMjAyMw=="}
+{"time":"2023-09-19T15:09:37.212409+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:15:04.729245+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-19T15:15:04.73275+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:15:21.922517+03:00","level":"INFO","msg":"","":"QVJEQUFAMjAyMw=="}
+{"time":"2023-09-19T15:15:21.922984+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:15:57.326774+03:00","level":"INFO","msg":"","":"ARDAA@2023"}
+{"time":"2023-09-19T15:15:57.327099+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:17:06.496459+03:00","level":"INFO","msg":"","":"ARDAA@2023"}
+{"time":"2023-09-19T15:17:06.497141+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:18:13.410684+03:00","level":"ERROR","msg":"Error creating token:","Err":"key is of invalid type"}
+{"time":"2023-09-19T15:20:36.531296+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUyOTg4MzYsImlhdCI6MTY5NTEyNjAzNiwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.ZMPqr4-mlrw9Zk3ryUCzhvEGxFV7jp0M7Xi8e11DCJw"}
+{"time":"2023-09-19T15:26:45.419033+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUyOTkyMDUsImlhdCI6MTY5NTEyNjQwNSwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.5rgp8_mBRNFm80EYD6BDMKJZVHROI87fQWk7b9tU670"}
+{"time":"2023-09-19T15:26:45.419239+03:00","level":"INFO","msg":"token is valid G"}
+{"time":"2023-09-19T16:07:49.6113+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDE2NjksImlhdCI6MTY5NTEyODg2OSwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.eznWgPrChIYaLhJGzOM1BGtnkZsw8dTcFq37q69jmjQ"}
+{"time":"2023-09-19T16:08:34.608417+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDE3MTQsImlhdCI6MTY5NTEyODkxNCwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.mS69AFcE4kv2hsrHmnWvrlEza9Ug_0ZKAJSKa933ylI"}
+{"time":"2023-09-19T16:28:38.7176+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDI5MTgsImlhdCI6MTY5NTEzMDExOCwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.8A_GTB4Uw9GLH5qH1yE_kFPvU02bu-sGAehbwE3-2Es"}
+{"time":"2023-09-19T16:28:54.261402+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDI5MzQsImlhdCI6MTY5NTEzMDEzNCwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.4wx4gBPsokhIqivzYlHM4T8e8NjU7Wx-584_GLJlrcE"}
+{"time":"2023-09-19T16:30:58.502363+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDMwNTgsImlhdCI6MTY5NTEzMDI1OCwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.rqinxsDNxKu05femZDKaRGokbvW2pcU8ja0PJ1BuwgQ"}
+{"time":"2023-09-19T16:37:50.81419+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDM0NzAsImlhdCI6MTY5NTEzMDY3MCwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.ng7_YndhXASv8jEYlQISMGMcYB52WdLTgh2U_LAQIsQ"}
+{"time":"2023-09-19T16:37:52.50227+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDM0NzIsImlhdCI6MTY5NTEzMDY3MiwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.5pIetEn5-6hdL6TQeHjivSVqDH4eAScd9ij8RytMeRc"}
+{"time":"2023-09-19T16:37:53.045287+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDM0NzMsImlhdCI6MTY5NTEzMDY3MywianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.XTlUfVeKRMkgLVqoH4J3eVSou7A8FMlsl_8JTRYMG4E"}
+{"time":"2023-09-19T16:37:53.493939+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDM0NzMsImlhdCI6MTY5NTEzMDY3MywianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.XTlUfVeKRMkgLVqoH4J3eVSou7A8FMlsl_8JTRYMG4E"}
+{"time":"2023-09-19T16:40:11.7371+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDM2MTEsImlhdCI6MTY5NTEzMDgxMSwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.gT34-NVR0g6O4HUUrkjAaqpKS96eZ8ntlJwZAKbGoFo"}
+{"time":"2023-09-19T16:46:15.843105+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDM5NzUsImlhdCI6MTY5NTEzMTE3NSwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.vV3LKtR3fR1QJUeH-fbnbDfnwZ6ERXa2FN9p1sfRkrE"}
+{"time":"2023-09-19T16:46:29.029015+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDM5ODksImlhdCI6MTY5NTEzMTE4OSwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.u-duvumXtJOuoJSTRXgLlNCBr_Fia2GUa9wL2WOiHLY"}
+{"time":"2023-09-19T16:48:15.286054+03:00","level":"ERROR","msg":"Main: ","Server Error: ":"failed to listen: listen tcp4 :8080: bind: address already in use"}
+{"time":"2023-09-19T16:49:20.922856+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMDQxNjAsImlhdCI6MTY5NTEzMTM2MCwianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.uwTxa-czvKZv2UWOR4tM0P227EPQeSsVTP_mJaxC8dQ"}
+{"time":"2023-09-19T20:33:23.45814+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMTc2MDMsImlhdCI6MTY5NTE0NDgwMywianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.NvK3LBDg_8L3Og1udzM8VxSH0kZCYa-Ol-yI63ZWjFw"}
+{"time":"2023-09-19T20:34:23.136252+03:00","level":"INFO","msg":"userHandler","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTUzMTc2NjMsImlhdCI6MTY5NTE0NDg2MywianRpIjoiNzg5LTM0NTQzLTM0NS0zNDUifQ.Mgj5TsGjpzw6EdhasDVq4SJs4ffJpxM-F3Ozwf5kNYc"}
+{"time":"2023-09-19T20:34:23.136431+03:00","level":"INFO","msg":"TOKEN:","":{"exp":1695317663,"iat":1695144863,"jti":"789-34543-345-345"}}
+{"time":"2023-09-19T20:43:03.422158+03:00","level":"INFO","msg":"TOKEN:","":{"exp":1695318183,"iat":1695145383,"jti":"789-34543-345-345"}}
+{"time":"2023-09-19T20:43:03.422493+03:00","level":"INFO","msg":"userHandler","token":{}}
+{"time":"2023-09-19T20:44:39.421916+03:00","level":"INFO","msg":"TOKEN:","":{"exp":1695318279,"iat":1695145479,"jti":"789-34543-345-345"}}
+{"time":"2023-09-19T20:44:39.422033+03:00","level":"INFO","msg":"userHandler","token":{}}
+{"time":"2023-09-19T20:45:50.805401+03:00","level":"INFO","msg":"TOKEN:","":""}
+{"time":"2023-09-19T20:45:50.805526+03:00","level":"INFO","msg":"userHandler","token":{}}
+{"time":"2023-09-19T20:46:13.871213+03:00","level":"INFO","msg":"TOKEN:","":""}
+{"time":"2023-09-19T20:46:13.871386+03:00","level":"INFO","msg":"userHandler","token":{}}
+{"time":"2023-09-19T20:46:29.16553+03:00","level":"INFO","msg":"TOKEN:","":1695318389}
+{"time":"2023-09-19T20:46:29.165664+03:00","level":"INFO","msg":"userHandler","token":{}}
+{"time":"2023-09-19T20:47:49.13904+03:00","level":"INFO","msg":"TOKEN:","":"789-34543-345-345"}
+{"time":"2023-09-19T20:47:49.13937+03:00","level":"INFO","msg":"userHandler","token":{}}
+{"time":"2023-09-19T21:06:42.229817+03:00","level":"INFO","msg":"userHandler","token":{}}
+{"time":"2023-09-19T21:07:20.070911+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-19T21:07:34.683632+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T01:14:04.250683+03:00","level":"INFO","msg":"<nil>"}
+{"time":"2023-09-20T01:14:04.251506+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T01:14:42.827866+03:00","level":"INFO","msg":"UserHandler%!(EXTRA *domain.User=<nil>)"}
+{"time":"2023-09-20T01:14:42.828286+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T01:15:03.869829+03:00","level":"INFO","msg":"UserHandler <nil>"}
+{"time":"2023-09-20T01:15:03.870941+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T01:16:04.090184+03:00","level":"INFO","msg":"UserHandler {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}         00000000-0000-0000-0000-000000000000 false false false}"}
+{"time":"2023-09-20T01:16:04.090815+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T01:16:40.167885+03:00","level":"INFO","msg":"UserHandler <nil>"}
+{"time":"2023-09-20T01:16:40.1683+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T01:16:52.747758+03:00","level":"INFO","msg":"UserHandler {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}}         00000000-0000-0000-0000-000000000000 false false false}"}
+{"time":"2023-09-20T01:16:52.74807+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T01:17:53.132767+03:00","level":"INFO","msg":"UserHandler {{0 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC {0001-01-01 00:00:00 +0000 UTC false}} Male    wassup    00000000-0000-0000-0000-000000000000 false false false}"}
+{"time":"2023-09-20T01:17:53.13328+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T01:18:47.161737+03:00","level":"INFO","msg":"UserHandler Male"}
+{"time":"2023-09-20T01:18:47.162055+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T01:18:56.362594+03:00","level":"INFO","msg":"UserHandler Muus"}
+{"time":"2023-09-20T01:18:56.36273+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T17:32:11.880373+03:00","level":"INFO","msg":"Service","user":{"UpdatedAt":"0001-01-01T00:00:00Z","CreatedAt":"0001-01-01T00:00:00Z","UUID":null,"Role":"","Password":"","Name":"wassup","Email":"","Bio":"","AvatarURL":"","Username":"","Gender":"Muus","IsVerified":false,"IsSuspended":false,"IsFirstTime":false}}
+{"time":"2023-09-20T17:32:11.881072+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T17:39:13.597697+03:00","level":"INFO","msg":"Service","user":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Muus","Password":""}}
+{"time":"2023-09-20T17:39:13.598284+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T17:45:01.262289+03:00","level":"INFO","msg":"userHandler","token":"789-34543-345-345"}
+{"time":"2023-09-20T17:46:13.718355+03:00","level":"INFO","msg":"Service","user":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Muus","Password":""}}
+{"time":"2023-09-20T18:03:31.41794+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil **domain.RegisterUser)"}
+{"time":"2023-09-20T18:04:37.146584+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil **domain.RegisterUser)"}
+{"time":"2023-09-20T18:09:32.675164+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:09:49.20324+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil **domain.RegisterUser)"}
+{"time":"2023-09-20T18:10:19.946832+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:10:43.880924+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:11:02.237485+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:12:57.30935+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:13:31.932874+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil **domain.RegisterUser)"}
+{"time":"2023-09-20T18:14:14.228432+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:15:01.700588+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:15:01.700876+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:15:17.777399+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:15:17.777976+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:15:29.982523+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:15:29.982828+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:17:32.004723+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:17:32.005283+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil **domain.RegisterUser)"}
+{"time":"2023-09-20T18:17:46.719669+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:17:46.719747+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil **domain.RegisterUser)"}
+{"time":"2023-09-20T18:18:03.600432+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:18:28.509344+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:18:53.272033+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:19:42.719669+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","email":"ismacil","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:20:10.9023+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:20:36.481736+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:21:11.672127+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:21:11.672263+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:21:22.758094+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:21:22.758394+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:22:03.049977+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:22:03.050246+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:22:45.357841+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:22:45.357877+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:22:59.343106+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:22:59.343216+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:23:40.147789+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:23:40.147882+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:24:11.771751+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:24:11.771844+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:24:23.422106+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:24:23.422182+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:24:59.297668+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:24:59.297767+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:25:13.29903+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:25:13.299123+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:26:30.123241+03:00","level":"INFO","msg":"Service","DATA:":null}
+{"time":"2023-09-20T18:26:30.123355+03:00","level":"INFO","msg":"Service","ERRROR:":"validator: (nil *domain.RegisterUser)"}
+{"time":"2023-09-20T18:32:19.04131+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:35:27.085841+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:36:23.637502+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:38:14.403487+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:38:48.880453+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:39:08.845625+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:42:15.106985+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:42:35.468135+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:43:22.346564+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:44:29.452222+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T18:44:45.692642+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:46:04.173263+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:47:03.495601+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:47:15.647123+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:48:28.79671+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:48:38.713256+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:48:55.601317+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:49:32.508963+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:49:49.256538+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:52:53.154836+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:53:38.999332+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:53:55.48049+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:53:55.48057+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T18:54:47.545781+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:54:47.54658+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T18:55:12.736792+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:56:08.710996+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T18:56:08.711476+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'email' tag"}
+{"time":"2023-09-20T19:01:44.593117+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T19:01:44.593912+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T19:02:48.365674+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"","Username":"","Email":"","AvatarURL":"","Gender":"","Password":""}}
+{"time":"2023-09-20T19:02:48.36627+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T19:14:36.43208+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T19:14:36.432803+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'email' tag"}
+{"time":"2023-09-20T19:15:00.066478+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil@mac.com","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T19:17:06.990427+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil@mac.com","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T19:17:48.430228+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil@mac.com","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T19:20:14.828048+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil@mac.com","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T19:20:16.800024+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil@mac.com","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T19:22:44.928371+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil@mac.com","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T19:50:46.975463+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil@mac.com","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T19:50:49.706719+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"ismacil@mac.com","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:18:49.125567+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:18:49.126489+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:20:09.356303+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:20:09.356677+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:20:10.332121+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:20:10.332237+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:20:41.044713+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:20:41.044918+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:20:41.885409+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:20:41.885461+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:20:42.378991+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:20:42.379101+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:20:42.954348+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:20:42.954688+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:20:44.113941+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:20:44.11403+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:23:25.148988+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:23:25.149464+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:23:25.803737+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:23:25.803784+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:23:26.380966+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:23:26.381061+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:23:26.894459+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:23:26.894511+03:00","level":"INFO","msg":"Service","ERRROR:":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:23:28.10664+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:23:28.824309+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:24:07.68582+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:24:07.68607+03:00","level":"INFO","msg":"","":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-20T20:27:36.707968+03:00","level":"INFO","msg":"Service","DATA:":{"Name":"wassup","Username":"","Email":"","AvatarURL":"","Gender":"Male","Password":""}}
+{"time":"2023-09-20T20:27:36.708429+03:00","level":"INFO","msg":"","":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:16:43.595786+03:00","level":"INFO","msg":"","":"required error Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:17:41.935873+03:00","level":"INFO","msg":"","":"required error Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:17:52.91624+03:00","level":"INFO","msg":"","":"required error Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:18:14.082522+03:00","level":"INFO","msg":"","":"required error Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:20:27.854625+03:00","level":"INFO","msg":"","":"required error Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:20:50.931213+03:00","level":"INFO","msg":"","":"required error Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:20:51.926775+03:00","level":"INFO","msg":"","":"required Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:20:59.2241+03:00","level":"INFO","msg":"","":"required Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:48:49.271254+03:00","level":"INFO","msg":"","":"required error "}
+{"time":"2023-09-21T10:50:22.523758+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:50:23.493792+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:50:24.109074+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:50:24.720969+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:50:29.959445+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:50:30.857024+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:50:57.225746+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:50:57.785481+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:50:58.182919+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:50:59.175863+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:51:03.318756+03:00","level":"INFO","msg":"","":" Email required"}
+{"time":"2023-09-21T10:51:28.170804+03:00","level":"INFO","msg":"","":" %!s(MISSING) %!s(MISSING)"}
+{"time":"2023-09-21T10:51:29.268603+03:00","level":"INFO","msg":"","":" "}
+{"time":"2023-09-21T10:51:30.252764+03:00","level":"INFO","msg":"","":" "}
+{"time":"2023-09-21T10:51:44.368606+03:00","level":"INFO","msg":"","":" "}
+{"time":"2023-09-21T10:51:55.960074+03:00","level":"INFO","msg":"","":"Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'required' tag"}
+{"time":"2023-09-21T10:52:26.07168+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-21T10:52:26.92893+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-21T10:52:28.114217+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-21T10:52:32.434653+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-21T10:52:40.576994+03:00","level":"INFO","msg":"","":"ismacil"}
+{"time":"2023-09-21T10:52:41.265719+03:00","level":"INFO","msg":"","":"ismacil"}
+{"time":"2023-09-21T10:53:31.014511+03:00","level":"INFO","msg":"","":"ismacil, email"}
+{"time":"2023-09-21T10:54:09.003384+03:00","level":"INFO","msg":"","":"email: %!(EXTRA string=Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'email' tag)"}
+{"time":"2023-09-21T10:54:11.825137+03:00","level":"INFO","msg":"","":"email: Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'email' tag"}
+{"time":"2023-09-21T10:54:42.857477+03:00","level":"INFO","msg":"","":"email: Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'email' tag"}
+{"time":"2023-09-21T10:54:43.465461+03:00","level":"INFO","msg":"","":"email: Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'email' tag"}
+{"time":"2023-09-21T10:54:44.039027+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:54:45.044265+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:14.039432+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:14.937808+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:15.600522+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:16.613312+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:20.98683+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:21.674119+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:39.397276+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:39.816423+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:40.628449+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:41.29929+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:57.359378+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:58.013484+03:00","level":"INFO","msg":"","":"email: email"}
+{"time":"2023-09-21T10:55:58.719426+03:00","level":"INFO","msg":"","":"email: Key: 'RegisterUser.Email' Error:Field validation for 'Email' failed on the 'email' tag"}
+{"time":"2023-09-21T12:50:12.437861+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-21T12:50:13.292625+03:00","level":"INFO","msg":"","":""}
+{"time":"2023-09-21T12:54:17.780819+03:00","level":"INFO","msg":"","":"ismacil is not a valid email!"}
+{"time":"2023-09-21T12:54:54.185475+03:00","level":"INFO","msg":"","":"ismacil@ is not a valid email!"}
+{"time":"2023-09-21T12:54:56.08284+03:00","level":"INFO","msg":"","":"ismacil@s is not a valid email!"}
+{"time":"2023-09-23T13:27:42.216897+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:50:05.847296+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:50:07.132805+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:50:08.12581+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:54:20.165499+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:54:21.195631+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:54:22.244751+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:54:40.870831+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:54:41.881734+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:54:43.0808+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:55:58.166932+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:55:59.29622+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:56:00.334656+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:56:08.358093+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"The Username is required!"}
+{"time":"2023-09-23T13:56:09.578644+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"The Username is required!"}
+{"time":"2023-09-23T13:56:14.230036+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"The Password is required!"}
+{"time":"2023-09-23T13:56:34.971589+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:56:48.938105+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:56:52.071991+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:56:53.355477+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T13:56:55.284619+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:04:44.120665+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"The Username is required!"}
+{"time":"2023-09-23T14:04:54.753617+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:06:52.329049+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:08:05.84743+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:09:34.790122+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:10:54.508619+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:11:01.207517+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"username already exists"}
+{"time":"2023-09-23T14:40:14.107012+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:45:57.465767+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:45:58.948867+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:46:00.084456+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:46:00.959135+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:46:14.288846+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:46:50.251305+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:46:51.466229+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:46:52.53935+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:49:47.217115+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:49:58.408325+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:50:50.338078+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:50:52.355107+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:50:54.397137+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-23T14:50:55.479481+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-24T14:17:30.643736+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-24T14:17:37.977829+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-24T14:17:39.952579+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-24T14:17:42.177077+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"username already exists"}
+{"time":"2023-09-24T14:23:32.951374+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-24T14:59:01.18272+03:00","level":"INFO","msg":"TOKEN DB","":{"expires_at":"0001-01-01T00:00:00Z","id":"","token":""}}
+{"time":"2023-09-24T15:00:01.135658+03:00","level":"INFO","msg":"TOKEN DB","":{"expires_at":"0001-01-01T00:00:00Z","id":"","token":""}}
+{"time":"2023-09-24T15:00:08.248491+03:00","level":"INFO","msg":"TOKEN DB","":"!ERROR:json: unsupported type: func() time.Time"}
+{"time":"2023-09-24T15:01:09.653916+03:00","level":"INFO","msg":"TOKEN DB","":"!ERROR:json: unsupported type: func() time.Time"}
+{"time":"2023-09-24T15:01:41.680715+03:00","level":"INFO","msg":"TOKEN DB","":"!ERROR:json: unsupported type: func() time.Time"}
+{"time":"2023-09-24T15:01:41.777221+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-24T15:01:47.284098+03:00","level":"INFO","msg":"TOKEN DB","":"!ERROR:json: unsupported type: func() time.Time"}
+{"time":"2023-09-24T15:01:47.384399+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"username already exists"}
+{"time":"2023-09-24T15:01:50.425033+03:00","level":"INFO","msg":"TOKEN DB","":"!ERROR:json: unsupported type: func() time.Time"}
+{"time":"2023-09-24T15:02:12.453035+03:00","level":"INFO","msg":"TOKEN DB","":"!ERROR:json: unsupported type: func() time.Time"}
+{"time":"2023-09-24T15:05:32.154876+03:00","level":"INFO","msg":"TOKEN DB","":"!ERROR:json: unsupported type: func() time.Time"}
+{"time":"2023-09-24T15:05:52.075663+03:00","level":"INFO","msg":"TOKEN DB","":"!ERROR:json: unsupported type: func() time.Time"}
+{"time":"2023-09-24T15:05:52.664991+03:00","level":"INFO","msg":"TOKEN DB","":"!ERROR:json: unsupported type: func() time.Time"}
+{"time":"2023-09-24T15:24:13.90373+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"fifteen@some.csome_s is not a valid email!"}
+{"time":"2023-09-24T15:29:26.21191+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-24T15:31:04.106431+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-25T08:09:03.33321+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-25T08:12:14.955562+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-25T09:32:04.023089+03:00","level":"INFO","msg":"user found: ","":{"UpdatedAt":null,"CreatedAt":null,"UUID":"","Email":"","Password":"","Name":"","Role":"","Bio":"","AvatarURL":"","Username":"","Gender":"","AuthToken":"","IsVerified":false,"IsSuspended":false,"IsFirstTime":false}}
+{"time":"2023-09-25T09:32:26.200666+03:00","level":"INFO","msg":"user found: ","":{"UpdatedAt":null,"CreatedAt":null,"UUID":"","Email":"","Password":"","Name":"","Role":"","Bio":"","AvatarURL":"","Username":"","Gender":"","AuthToken":"","IsVerified":false,"IsSuspended":false,"IsFirstTime":false}}
+{"time":"2023-09-25T09:33:26.819296+03:00","level":"INFO","msg":"user found: ","":{"Role":"","AvatarURL":"","UUID":"","Email":"","Password":"","Name":"","AuthToken":"","Bio":"","Gender":"","Username":"","UpdatedAt":null,"CreatedAt":null,"IsVerified":false,"IsSuspended":false,"IsFirstTime":false}}
+{"time":"2023-09-25T09:33:52.530073+03:00","level":"INFO","msg":"user found: ","":{"Role":"","AvatarURL":"","UUID":"","Email":"","Password":"","Name":"","AuthToken":"","Bio":"","Gender":"","Username":"","UpdatedAt":null,"CreatedAt":null,"IsVerified":false,"IsSuspended":false,"IsFirstTime":false}}
+{"time":"2023-09-25T09:34:23.882797+03:00","level":"INFO","msg":"user found: ","":{"Role":"","AvatarURL":"","UUID":"","Email":"","Password":"","Name":"","AuthToken":"","Bio":"","Gender":"","Username":"","UpdatedAt":null,"CreatedAt":null,"IsVerified":false,"IsSuspended":false,"IsFirstTime":false}}
+{"time":"2023-09-25T09:34:45.190753+03:00","level":"INFO","msg":"user found: ","":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"name":"","bio":"","username":"","email":"","password":"","auth_token":"","gender":"","role":"","avatar_url":"","uuid":"","is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T09:36:49.042732+03:00","level":"INFO","msg":"user found: ","":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"name":"","bio":"","username":"","email":"","password":"","auth_token":"","gender":"","role":"","avatar_url":"","uuid":"","is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T09:39:02.004005+03:00","level":"INFO","msg":"user found: ","":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"name":"","bio":"","username":"","email":"","password":"","auth_token":"","gender":"","role":"","avatar_url":"","uuid":"","is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T09:40:40.180134+03:00","level":"INFO","msg":"user found: ","":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"name":"xasan abdi","bio":"","username":"","email":"new_2@user.com","password":"","auth_token":"","gender":"","role":"","avatar_url":"","uuid":"","is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T09:41:32.059538+03:00","level":"INFO","msg":"user found: ","":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"name":"","bio":"","username":"","email":"","password":"","auth_token":"","gender":"","role":"","avatar_url":"","uuid":"","is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T09:44:48.509262+03:00","level":"INFO","msg":"user found: ","":{"Role":"","AvatarURL":"","UUID":"","Email":"","Password":"","Name":"","AuthToken":"","Bio":"","Gender":"","Username":"","UpdatedAt":null,"CreatedAt":null,"IsVerified":false,"IsSuspended":false,"IsFirstTime":false}}
+{"time":"2023-09-25T09:54:10.271005+03:00","level":"INFO","msg":"user found: ","":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"name":"","bio":"","username":"","email":"","password":"","auth_token":"","gender":"","role":"","avatar_url":"","uuid":"","is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T10:00:47.00823+03:00","level":"INFO","msg":"user found: ","":{"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"password":"","gender":"","bio":"","username":"","email":"","uuid":"","auth_token":"","name":"","role":"","avatar_url":"","ID":0,"is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T10:01:57.254156+03:00","level":"INFO","msg":"user found: ","":{"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"password":"","gender":"","bio":"","username":"","email":"","uuid":"","auth_token":"","name":"","role":"","avatar_url":"","ID":0,"is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T10:07:40.870633+03:00","level":"INFO","msg":"user found: ","":{"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"password":"","gender":"","bio":"","username":"","email":"","uuid":"","auth_token":"","name":"","role":"","avatar_url":"","ID":0,"is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T10:14:56.522929+03:00","level":"INFO","msg":"user found: ","":{"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"password":"","gender":"","bio":"","username":"","email":"","uuid":"","auth_token":"","name":"","role":"","avatar_url":"","ID":0,"is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T10:18:39.635039+03:00","level":"INFO","msg":"user found: ","":{"DeletedAt":null,"uuid":"18bd4ba9-6fe7-4bcb-9c5e-97b89c1d94c3","email":"new_2@user.com","password":"$2a$10$iIHjF/Q2DrzDNWXCDFsR7OLcfu8BjUJNEgtO0kI6/YUd3yU25Nkh2","gender":"female","auth_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxOGJkNGJhOS02ZmU3LTRiY2ItOWM1ZS05N2I4OWMxZDk0YzMiLCJleHAiOjE2OTU3OTg4ODQsImlhdCI6MTY5NTYyNjA4NCwianRpIjoiMThiZDRiYTktNmZlNy00YmNiLTljNWUtOTdiODljMWQ5NGMzIn0.YS0wpyq9mRKV0Nxtxy4ikWLXiAMLs_CuDdYhbURU-Ow","username":"testing_final_final","avatar_url":"","role":"regular","bio":"","name":"xasan abdi","CreatedAt":20230925071444,"UpdatedAt":20230925071444,"ID":1,"is_verified":false,"is_suspended":false,"is_first_time":true}}
+{"time":"2023-09-25T10:19:22.403063+03:00","level":"INFO","msg":"user found: ","":{"DeletedAt":null,"uuid":"ae3b5eb9-0ffe-47ce-bd50-d4e896566d3b","email":"new_2@user.com","password":"$2a$10$tIbCfcpSCQBapsPFZOCb0uUZEKCBPKi12VXb6og2COS4MaioOVU9i","gender":"female","auth_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZTNiNWViOS0wZmZlLTQ3Y2UtYmQ1MC1kNGU4OTY1NjZkM2IiLCJleHAiOjE2OTU3OTkxNDUsImlhdCI6MTY5NTYyNjM0NSwianRpIjoiYWUzYjVlYjktMGZmZS00N2NlLWJkNTAtZDRlODk2NTY2ZDNiIn0.pjoW2pMt7BO5sLFUIpT_5dO7nKNqBPdR3WsqhTY1DzI","username":"testing_final_final","avatar_url":"","role":"regular","bio":"","name":"xasan abdi","CreatedAt":1695626345,"UpdatedAt":1695626345,"ID":1,"is_verified":false,"is_suspended":false,"is_first_time":true}}
+{"time":"2023-09-25T10:24:43.412338+03:00","level":"INFO","msg":"user found: ","":{"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"password":"","gender":"","bio":"","username":"","email":"","uuid":"","auth_token":"","name":"","role":"","avatar_url":"","ID":0,"is_verified":false,"is_suspended":false,"is_first_time":false}}
+{"time":"2023-09-25T10:36:33.890746+03:00","level":"INFO","msg":"user found: ","":{"CreatedAt":"2023-09-25T07:22:38.209Z","UpdatedAt":"2023-09-25T07:22:38.209Z","DeletedAt":null,"password":"$2a$10$i9o6RID/e9oo/WfjN9siQ.jUm4q204SEzAf8GeopWk7Cbd8UKkvHO","gender":"female","bio":"","username":"testing_final_final","email":"new_2@user.com","uuid":"cb1a5f25-34c3-451d-bac8-54590ea9a6b5","auth_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjYjFhNWYyNS0zNGMzLTQ1MWQtYmFjOC01NDU5MGVhOWE2YjUiLCJleHAiOjE2OTU3OTkzNTgsImlhdCI6MTY5NTYyNjU1OCwianRpIjoiY2IxYTVmMjUtMzRjMy00NTFkLWJhYzgtNTQ1OTBlYTlhNmI1In0.JZG8kT9oBNSu4Fv051S_7g6YTcsvuAeXLwwAVaKE720","name":"xasan abdi","role":"regular","avatar_url":"","ID":1,"is_verified":false,"is_suspended":false,"is_first_time":true}}
+{"time":"2023-09-25T10:37:23.014566+03:00","level":"INFO","msg":"user found: ","":{"CreatedAt":"2023-09-25T07:22:38.209Z","UpdatedAt":"2023-09-25T07:22:38.209Z","DeletedAt":null,"password":"$2a$10$i9o6RID/e9oo/WfjN9siQ.jUm4q204SEzAf8GeopWk7Cbd8UKkvHO","gender":"female","bio":"","username":"testing_final_final","email":"new_2@user.com","uuid":"cb1a5f25-34c3-451d-bac8-54590ea9a6b5","auth_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjYjFhNWYyNS0zNGMzLTQ1MWQtYmFjOC01NDU5MGVhOWE2YjUiLCJleHAiOjE2OTU3OTkzNTgsImlhdCI6MTY5NTYyNjU1OCwianRpIjoiY2IxYTVmMjUtMzRjMy00NTFkLWJhYzgtNTQ1OTBlYTlhNmI1In0.JZG8kT9oBNSu4Fv051S_7g6YTcsvuAeXLwwAVaKE720","name":"xasan abdi","role":"regular","avatar_url":"","ID":1,"is_verified":false,"is_suspended":false,"is_first_time":true}}
+{"time":"2023-09-25T17:12:31.084587+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-26T07:24:44.284664+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"Something is wrong with Ip"}
+{"time":"2023-09-26T07:24:59.007409+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"Something is wrong with Ip"}
+{"time":"2023-09-26T11:47:54.048525+03:00","level":"ERROR","msg":"Registeration error","!BADKEY":"email already exists"}
+{"time":"2023-09-26T15:31:11.264861+03:00","level":"INFO","msg":"","TOJEN":{"expires_at":"0001-01-01T00:00:00Z","id":"","token":"","ip":""}}
+{"time":"2023-09-26T15:31:49.055982+03:00","level":"INFO","msg":"","TOJEN":""}
+{"time":"2023-09-26T15:32:34.111649+03:00","level":"INFO","msg":"","TOJEN":""}
+{"time":"2023-09-26T15:32:42.545328+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":""}
+{"time":"2023-09-26T15:34:25.922695+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTc5OTcsImlhdCI6MTY5NTczMTU5NywianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.x6laDl6IKjO4mkUozg9HTGVTSGAbhss_wird8cgEEF0"}
+{"time":"2023-09-26T15:34:27.890085+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTc5OTcsImlhdCI6MTY5NTczMTU5NywianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.x6laDl6IKjO4mkUozg9HTGVTSGAbhss_wird8cgEEF0"}
+{"time":"2023-09-26T15:34:29.49458+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTc5OTcsImlhdCI6MTY5NTczMTU5NywianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.x6laDl6IKjO4mkUozg9HTGVTSGAbhss_wird8cgEEF0"}
+{"time":"2023-09-26T15:35:21.45455+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTc5OTcsImlhdCI6MTY5NTczMTU5NywianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.x6laDl6IKjO4mkUozg9HTGVTSGAbhss_wird8cgEEF0"}
+{"time":"2023-09-26T15:36:02.898702+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTc5OTcsImlhdCI6MTY5NTczMTU5NywianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.x6laDl6IKjO4mkUozg9HTGVTSGAbhss_wird8cgEEF0"}
+{"time":"2023-09-26T15:36:10.376372+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTc5OTcsImlhdCI6MTY5NTczMTU5NywianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.x6laDl6IKjO4mkUozg9HTGVTSGAbhss_wird8cgEEF0"}
+{"time":"2023-09-26T15:36:25.491614+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":""}
+{"time":"2023-09-26T15:36:31.708642+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-26T15:36:40.823446+03:00","level":"INFO","msg":"","ip":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-26T15:36:49.447277+03:00","level":"INFO","msg":"","ip":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk","TOJEN":""}
+{"time":"2023-09-26T15:36:52.739631+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":""}
+{"time":"2023-09-26T23:42:09.819789+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T17:37:24.909053+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T17:37:33.492377+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T17:37:34.261745+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T17:37:35.090401+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T17:38:45.914134+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T17:38:46.818513+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T17:38:47.487728+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T17:41:18.883505+03:00","level":"INFO","msg":"","ip":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk","TOJEN":""}
+{"time":"2023-09-27T17:41:18.884513+03:00","level":"INFO","msg":"","ip":"127.0.0.1","TOJEN":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T18:13:48.559823+03:00","level":"INFO","msg":"","":null}
+{"time":"2023-09-27T18:14:20.099058+03:00","level":"INFO","msg":"","":null}
+{"time":"2023-09-27T18:14:26.387574+03:00","level":"INFO","msg":"","":"failed to add token"}
+{"time":"2023-09-27T18:14:54.794928+03:00","level":"INFO","msg":"","":"failed to add token"}
+{"time":"2023-09-27T18:15:01.885086+03:00","level":"INFO","msg":"","":"failed to add token"}
+{"time":"2023-09-27T18:16:49.950738+03:00","level":"INFO","msg":"Token","":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:17:16.645737+03:00","level":"INFO","msg":"Token","":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:17:22.536571+03:00","level":"INFO","msg":"Token","":false}
+{"time":"2023-09-27T18:19:09.538307+03:00","level":"INFO","msg":"Token","":false}
+{"time":"2023-09-27T18:19:13.742406+03:00","level":"INFO","msg":"ID","GETTING the something":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:19:13.743211+03:00","level":"INFO","msg":"Token","":false}
+{"time":"2023-09-27T18:19:13.743239+03:00","level":"INFO","msg":"ID","GETTING the something":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:19:13.743361+03:00","level":"INFO","msg":"ID","GETTING the something":"127.0.0.1"}
+{"time":"2023-09-27T18:21:30.884896+03:00","level":"INFO","msg":"ID","GETTING the something":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:21:30.88733+03:00","level":"INFO","msg":"Token","":false}
+{"time":"2023-09-27T18:21:30.887397+03:00","level":"INFO","msg":"ID","GETTING the something":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:21:30.88755+03:00","level":"INFO","msg":"ID","GETTING the something":"127.0.0.1"}
+{"time":"2023-09-27T18:22:04.332313+03:00","level":"INFO","msg":"Token","":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:22:04.333029+03:00","level":"INFO","msg":"ID","GETTING the something":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:22:04.333529+03:00","level":"INFO","msg":"ID","GETTING the something":"127.0.0.1"}
+{"time":"2023-09-27T18:26:11.36081+03:00","level":"INFO","msg":"Token","":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:26:11.363285+03:00","level":"INFO","msg":"ID","GETTING the something":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgxODUsImlhdCI6MTY5NTczMTc4NSwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.dAFg5AFFlTH3E4Y9r0wlJ4GKOUjrIbbP80sxNm1U1Xk"}
+{"time":"2023-09-27T18:26:11.37423+03:00","level":"INFO","msg":"ID","GETTING the something":"127.0.0.1"}
+{"time":"2023-09-27T18:29:22.818582+03:00","level":"INFO","msg":"Token","":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
+{"time":"2023-09-27T18:29:22.818968+03:00","level":"INFO","msg":"ID","GETTING the something":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlOGI2MjVmMC1hODM0LTQxZjgtYmQ5MC1kMWFmZjA0ZTMxYjAiLCJleHAiOjE2OTU4MTgyMTIsImlhdCI6MTY5NTczMTgxMiwianRpIjoiZThiNjI1ZjAtYTgzNC00MWY4LWJkOTAtZDFhZmYwNGUzMWIwIn0.pM9GJrmImoJpqXvX2-n-nZ5kwZ9FkP_qnO_d1qEH4NQ"}
